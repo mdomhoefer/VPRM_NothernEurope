@@ -1,0 +1,10 @@
+Station,Station Name,IGBP,Longitude,Latitude,CLC,CLC100mLabel,SYNMAP,SYNMAP1km,VPRM,tile_v,tile_h
+FI-Hyy, Hyytiala,ENF,24.29477,61.84741,312,Coniferous forest,1,Trees/Needle/Evergreen,0,2,19
+FI-Let, Lettosuo,ENF,23.95952,60.64183,312,Coniferous forest,1,Trees/Needle/Evergreen,0,2,19
+FI-Qvd,Qvidja,CRO,22.391607,60.295242,,,,,5,2,19
+SE-Lnn,Lanna,CRO,13.10176754,58.34062958,211,Non-irrigated arable land,44,Crops ,5,3,18
+SE-Ros, Rosinedal-3,ENF,19.738,64.1725,312,Coniferous forest,1,Trees/Needle/Evergreen,0,2,18
+SE-Svb,Svartberget,ENF,19.7745,64.25611,312,Coniferous forest,1,Trees/Needle/Evergreen,0,2,18
+SE-Deg, Degero,GRA,19.556539,64.182029,412,Peat bogs ,1,Trees/Needle/Evergreen,6,2,18
+SE-Htm, Hyltemossa,ENF,13.41897,56.09763,312,Coniferous forest,1,Trees/Needle/Evergreen,0,3,18
+SE-Nor, Norunda,ENF,17.47950278,60.08649722,312,Coniferous forest,1,Trees/Needle/Evergreen,0,2,18
